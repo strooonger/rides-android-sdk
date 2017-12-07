@@ -1,5 +1,7 @@
 v0.8.0 - TBD
 ------------
+### Added
+ - [Issue #22](https://github.com/uber/rides-android-sdk/issues/22) Customtab support
 
 v0.7.0 - 11/17/2017
 ------------
